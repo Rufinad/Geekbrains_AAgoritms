@@ -1,7 +1,7 @@
 '''Пользователь вводит две буквы. Определить, на каких местах алфавита они стоят,
  и сколько между ними находится букв.'''
 
-'''https://drive.google.com/file/d/1OR4fuoGBf0djUxSzQzTHkr46F-Iy0gvD/view?usp=sharing'''
+'''https://drive.google.com/file/d/1JzomxfRioOVOYMEvMiVzkb4TZ0zAow_J/view?usp=sharing'''
 
 letter_1 = input('Введите строчную букву английского алфавита ')
 letter_2 = input('Введите еще одну строчную букву английского алфавита ')
